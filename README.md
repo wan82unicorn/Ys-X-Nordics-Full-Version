@@ -245,4 +245,4 @@ This repository serves as the official landing page for *Ys X: Nordics*. The sof
 **Get the most recent version of Ys X: Nordics today!**
 
 ---
-**Last updated:** 2026-10-16 12:53:25 UTC
+**Last updated:** 2026-10-16 17:06:16 UTC
